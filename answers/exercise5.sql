@@ -1,0 +1,1 @@
+SELECT * FROM Students WHERE Country IN ('Haiti', 'Sint Maarten');
